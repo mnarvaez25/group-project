@@ -18,6 +18,9 @@ h2 {
 	font-weight: 600px;
 }
 
+h6 {
+	color: white;
+}
 p {
 	font-weight: 300px;
 }
@@ -27,6 +30,11 @@ p {
 	width: 100%;
 	min-height: 100px;
 	
+}
+
+#footer{
+	float: left;
+	background-color: #344055;
 }
 
 nav {
@@ -65,4 +73,9 @@ ul.top-nav li a {
 .title{
 	margin-left: 50px;
 
+}
+
+img {
+	float: left;
+	max-height: 500px;
 }
